@@ -1,4 +1,4 @@
-# Resume Summarizer
+# GenAI Application For Resume Analysis
 
 This project extracts text from a resume PDF and uses the OpenAI API to summarize it into a specified format, streamlining the process of converting resumes into structured summaries.
 
