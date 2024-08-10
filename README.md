@@ -14,5 +14,5 @@ This project extracts text from a resume PDF and uses the OpenAI API to summariz
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/resume-summarizer.git
+git clone https://github.com/yourusername/GenAI-Application-For-Resume-Analysis.git
 cd resume-summarizer
